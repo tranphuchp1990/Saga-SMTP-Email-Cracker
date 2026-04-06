@@ -4,8 +4,8 @@ Saga SMTP Email Cracker is a high-performance, multithreaded tool that cracks SM
 
 <h2>🎬 Demo Video</h2>
 <p>
-  <a href="[https://www.youtube.com/watch?v=v5On5Qqbyk8](https://www.youtube.com/watch?v=C4PO2_Hhepk)">Watch Demo Video</a></br>
-  <a href="[https://odysee.com/@SoftHatch:5/Saga-Smtp-Cracker:1?src=embed](https://odysee.com/@SoftHatch:5/Saga-Email-Cracker:7?src=embed)">Watch Demo Video</a>
+  <a href="https://www.youtube.com/watch?v=C4PO2_Hhepk">Watch Demo Video</a></br>
+  <a href="https://odysee.com/@SoftHatch:5/Saga-Email-Cracker:7?src=embed">Watch Demo Video</a>
 </p>
 
 <h2>📬 Contact</h2>
